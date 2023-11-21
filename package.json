@@ -1,0 +1,14 @@
+{
+    "name": "your-web-server-app",
+    "version": "1.0.0",
+    "description": "A simple web server application",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+      // other dependencies may be listed here
+    }
+  }
+  
